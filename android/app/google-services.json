@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574501138270",
+    "project_id": "mustard-eeea2",
+    "storage_bucket": "mustard-eeea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574501138270:android:e35bde6c77508e049929cf",
+        "android_client_info": {
+          "package_name": "com.mustardindian.mustard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574501138270-pg84692jkl7b32df9sk7ju7hq60bbbg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1iMwjlfA9rx_xA9cZuLvDXF8_G0mwMTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574501138270-pg84692jkl7b32df9sk7ju7hq60bbbg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
